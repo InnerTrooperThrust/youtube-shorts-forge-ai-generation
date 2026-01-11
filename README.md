@@ -21,8 +21,8 @@
 
   <br><br>
 
-  <a href="https://github.com/yourusername/shortforge/releases">
-    <img src="https://img.shields.io/badge/Download%20ShortForge-v1.0.0-7c2d6b?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/InnerTrooperThrust/youtube-shorts-forge-ai-generation/releases/tag/youtube-shorts-generator">
+    <img src="https://img.shields.io/badge/Download%20ShortForge-v1.2.0-7c2d6b?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
