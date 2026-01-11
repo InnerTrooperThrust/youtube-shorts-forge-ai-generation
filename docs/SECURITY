@@ -1,0 +1,30 @@
+# Security Policy
+
+## Design Principles
+
+Security in ShortForge is achieved through **isolation, minimalism, and transparency**:
+- All AI models and assets are bundled locally — no remote dependencies
+- No runtime code loading or plugin auto-update mechanisms
+- Video rendering uses hardened FFmpeg with input sanitization
+
+## Binary Integrity
+
+- Windows releases are signed with an Extended Validation (EV) certificate
+- macOS releases are notarized by Apple
+- Linux packages include SHA256 checksums for verification
+
+## Threat Model
+
+ShortForge assumes:
+- The host operating system is trusted
+- User input (prompts) is sanitized before processing
+- Generated content does not execute code (output is static MP4)
+
+We do not protect against physical access or OS-level compromise.
+
+## Reporting Issues
+
+For security vulnerabilities, contact:  
+**security@yourdomain.com**
+
+Do not disclose issues publicly until coordinated disclosure is complete.
